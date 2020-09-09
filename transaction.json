@@ -1,4 +1,3 @@
-
 {
   "transactions": [
     {
@@ -71,6 +70,6 @@
       "category": "receive",
       "amount": 19.60439508
     }
-  ],
-      "removed": []
+  ]
+
 }
